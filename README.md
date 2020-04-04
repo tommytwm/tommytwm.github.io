@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can view the current website design [here]
-(https://www.figma.com/file/5SoMEkUgl1FwWlwiEQ6fGW/Personal-Website?node-id=0%3A1).
+You can view the current website design [here](https://www.figma.com/file/5SoMEkUgl1FwWlwiEQ6fGW/Personal-Website?node-id=0%3A1).
 
 ## Available Scripts
 
