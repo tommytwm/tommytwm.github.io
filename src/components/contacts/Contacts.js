@@ -8,9 +8,9 @@ function Contacts() {
                 Call me 🤙😉📲
             </a>
             <div className="Contacts-list">
-                <li className="Contacts-item"> tommythowm@gmail.com</li>
-                <li className="Contacts-item">linkedin.com/in/tommythowm</li>
-                <li className="Contacts-item">github.com/tommytwm</li>
+                <ul>📧 tommythowm@gmail.com</ul>
+                <ul>💼 linkedin.com/in/tommythowm</ul>
+                <ul>🤓 github.com/tommytwm</ul>
             </div>
         </div>
     )

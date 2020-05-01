@@ -10,9 +10,10 @@
 .Contacts-list {
     font-size: 20px;
     font-weight: lighter;
-    padding: 20px 20px 0 20px
+    padding: 20px 20px 0 20px;
+    list-style-type: none;
 }
 
 .Contacts-item {
-    padding: 8px 0;
+    padding: 8px 0px;
 }
