@@ -10,10 +10,25 @@
 .Contacts-list {
     font-size: 20px;
     font-weight: lighter;
-    padding: 20px 20px 0 20px;
     list-style-type: none;
 }
 
-.Contacts-item {
-    padding: 8px 0px;
+li {
+    padding: 8px 0;
+}
+
+ul > li:nth-child(1) {
+    margin-top: 10px;
+    list-style: "📧   ";
+    list-style-position: outside;
+}
+ul > li:nth-child(2) {
+    margin-top: 10px;
+    list-style: "💼   ";
+    list-style-position: outside;
+}
+ul > li:nth-child(3) {
+    margin-top: 10px;
+    list-style: "🤓   ";
+    list-style-position: outside;
 }
