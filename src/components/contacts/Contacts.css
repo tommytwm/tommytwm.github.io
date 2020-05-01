@@ -1,0 +1,18 @@
+.Contacts {
+    align-self: baseline;
+}
+
+.Contacts-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Contacts-list {
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 20px 20px 0 20px
+}
+
+.Contacts-item {
+    padding: 8px 0;
+}

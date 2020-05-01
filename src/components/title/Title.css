@@ -1,5 +1,7 @@
 .Title {
     align-self: baseline;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .Title-subtitle {

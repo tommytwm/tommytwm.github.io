@@ -1,5 +1,5 @@
 import React from 'react'
-import './Styles.css'
+import './Title.css'
 
 function Title() {
     return (
@@ -18,12 +18,3 @@ function Title() {
 }
 
 export default Title;
-
-{/* <a
-    className="App-link"
-    href="https://reactjs.org"
-    target="_blank"
-    rel="noopener noreferrer"
->
-    Learn React
-</a> */}
