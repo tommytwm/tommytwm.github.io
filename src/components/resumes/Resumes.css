@@ -1,0 +1,14 @@
+.Resumes {
+    align-self: baseline;
+}
+
+.Resumes-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Resumes-list {
+    font-size: 20px;
+    font-weight: lighter;
+    list-style-type: none;
+}
