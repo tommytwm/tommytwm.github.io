@@ -12,3 +12,7 @@
     font-weight: lighter;
     list-style-type: none;
 }
+
+.Resume-download-button {
+    position: relative;
+}

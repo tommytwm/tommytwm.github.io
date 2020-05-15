@@ -1,5 +1,6 @@
 import React from 'react'
 import './Resumes.css'
+import {ReactComponent as Coop} from './assets/technical-resume-co-op-download.svg'
 
 function Resumes() {
     return (
@@ -8,7 +9,7 @@ function Resumes() {
                 Take home a little bit about me
             </a>
             <ul className="Resumes-list">
-                <a href="CoopResume2020.pdf" download>UBC Co-op Resume 2020</a>
+                <Coop className="Resume-download-button"/>
             </ul>
         </div>
     )
