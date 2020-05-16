@@ -6,10 +6,8 @@
 
 <svg width="538" height="53" viewBox="0 0 538 53" fill="none" xmlns="http://www.w3.org/2000/svg">
 <a href="CoopResume2020.pdf" download="CoopResume2020.pdf">
-<rect x="2.5" y="2.5" width="533" height="48" rx="24" fill="white" stroke="black" stroke-width="5"/>
-<circle cx="511.5" cy="26.5" r="24" fill="white" stroke="black" stroke-width="5"/>
-<text x="55" y="36" font-size="26" font-family="Roboto, sans-serif" font-weight="light" fill="black">Technical Resume Co-op 2020</text>
+<rect x="2.5" y="2.5" width="450" height="48" rx="24" fill="white" stroke="black" stroke-width="5"/>
+<text x="50" y="36" font-size="26" font-family="Roboto, sans-serif" font-weight="light" fill="black">Technical Resume Co-op 2020</text>
 </a>
-<path d="M509.939 39.0607C510.525 39.6464 511.475 39.6464 512.061 39.0607L521.607 29.5147C522.192 28.9289 522.192 27.9792 521.607 27.3934C521.021 26.8076 520.071 26.8076 519.485 27.3934L511 35.8787L502.515 27.3934C501.929 26.8076 500.979 26.8076 500.393 27.3934C499.808 27.9792 499.808 28.9289 500.393 29.5147L509.939 39.0607ZM509.5 13L509.5 38L512.5 38L512.5 13L509.5 13Z" fill="black"/>
 </svg>
 
