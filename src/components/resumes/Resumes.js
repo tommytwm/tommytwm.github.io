@@ -7,7 +7,7 @@ function Resumes() {
     return (
         <div className="Resumes">
             <a className="Resumes-header">
-                Take home a little bit about me
+                Take home the important bits
             </a>
             <ul className="Resumes-list">
                 <Coop className="Resume-download-button"/>
