@@ -9,16 +9,9 @@
 }
 
 .Bio-text {
-    font-size: 18px;
-    font-weight: 300;
-    line-height: 1.5em;
     padding-right: 10%;
 } 
 
 img {
     width: 15em;
-}
-
-b {
-    font-weight: 600;
 }

@@ -27,3 +27,13 @@
     transform: rotate(360deg);
   }
 }
+
+p {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+
+b {
+  font-weight: 600;
+}

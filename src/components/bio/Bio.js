@@ -12,7 +12,7 @@ function Bio() {
                 </h2>
                 <div className="Bio-body">
                     <p>
-                        I’m 21 years-old, born and raised in Malaysia! I currently reside in <b>Vancouver, BC.</b> I’ve been living in Canada since August 2017 as an international student — and so far, loving the west coast! I’ve made this website to tell my story.
+                        I’m 21 years old, born and raised in Malaysia! I currently reside in <b>Vancouver, BC.</b> I’ve been living in Canada since August 2017 as an international student — and so far, loving the west coast! I’ve made this website to tell my story.
                     </p>
                     <p>
                         I’m a fourth-year undergrad, majoring in <b>Computer Science</b> at The University of British Columbia and I’m expected to graduate by Fall 2022. After graduation, I plan to pursure a career in software!
