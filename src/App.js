@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Box from './components/box/Box';
 import Bio from './components/bio/Bio';
 import Contacts from './components/contacts/Contacts';
+import Deck from './components/experience/deck/Deck';
 import Resumes from './components/resumes/Resumes';
 import Skills from './components/skills/Skills';
 import Title from './components/title/Title';
@@ -14,11 +14,12 @@ function App() {
         <Title/>
         <Bio/>
         <Skills/>
-        <Box
-          link="https://ubc.ca"
-          workplace="The University of British Columbia"
-          title="Undergraduate Teaching Assistant"
-          details="CPSC 310"
+        <Deck
+          isTech={true}
+          jobTitle="Undergraduate Teaching Assistant"
+          date="January, 2020 - April, 2020"
+          employer="University of British Columbia"
+          team="CPSC 310"
         />
         <Contacts/>
         <Resumes/>
