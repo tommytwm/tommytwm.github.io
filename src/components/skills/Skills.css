@@ -1,0 +1,26 @@
+.Skills {
+    width: 100%;
+    margin-bottom: 8%;
+}
+
+.Skills-header {
+    margin-bottom: 8%;
+}
+
+.Skills-row {
+    display: flex;
+    margin-left: 8%;
+}
+
+.Skills-text-1 {
+    margin-left: 16%;
+    margin-right: 8%;
+}
+
+.Skills-text-2 {
+    margin: 0 10%;
+}
+
+.Skills-text-3 {
+    margin: 0 10%;
+}

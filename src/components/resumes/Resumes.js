@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import './Resumes.css'
 import {ReactComponent as Coop} from './assets/technical-resume-co-op-download.svg'
