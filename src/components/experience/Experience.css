@@ -1,0 +1,7 @@
+.Experience {
+    width: 100%;
+}
+
+.Experience .Row {
+    display: flex;
+}

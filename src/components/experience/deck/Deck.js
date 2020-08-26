@@ -13,7 +13,7 @@ function Deck(props) {
                 isTech ? 'tech-label' :
                 isEducation ? 'education-label' :
                 isService ? 'service-label' :
-                isDesign ? 'design-lavel' :
+                isDesign ? 'design-label' :
                 null
             }>
                 <h4>{props.jobTitle}</h4>
@@ -25,6 +25,6 @@ function Deck(props) {
             </ol>
         </div>
     );
-}
+};
 
 export default Deck;
