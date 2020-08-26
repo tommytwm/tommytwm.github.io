@@ -11,7 +11,7 @@ function Title() {
                 Tommy Tho
             </h1>
             <a className="Title-subheader">
-                I'm a computer science undergrad from Malaysia. I do software development and some graphic design on the side.
+                I'm a computer science undergrad at UBC. I do software development and some graphic design on the side.
             </a>
         </div>
     )
