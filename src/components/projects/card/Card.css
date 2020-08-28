@@ -19,6 +19,7 @@
 .Card-list .description {
     white-space: pre-line;
     line-height: 1.4em;
+    font-weight: 300;
 }
 
 .Card-btn {

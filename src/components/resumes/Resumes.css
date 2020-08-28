@@ -2,17 +2,29 @@
     align-self: baseline;
 }
 
-.Resumes-header {
-    font-size: 30px;
+.Btn {
+    color: #000000;
+    background: #FFFFFF;
+    border: 3px solid #000000;
     font-weight: bold;
+    font-size: 0.8em;
+
+    width: max-content;
+    border-radius: 50px;
+    padding: .3em .6em;
+    margin-right: 5%;
 }
 
-.Resumes-list {
-    font-size: 20px;
-    font-weight: lighter;
-    list-style-type: none;
-}
+.Btn-hover {
+    color: #FFFFFF;
+    background: #000000;
+    border: 3px solid #000000;
+    font-weight: bold;
+    font-size: 0.8em;
 
-.Resume-download-button {
-    position: relative;
+    cursor: pointer;
+    width: max-content;
+    border-radius: 50px;
+    padding: .3em .6em;
+    margin-right: 5%;
 }

@@ -8,7 +8,7 @@ const project = [];
 project[0] = {
     title: "This website!",
     date: "September 2020",
-    event: "-",
+    event: "For my own benefit ❤️",
     description: "I built this website as a way to help practice my CSS & React front-end development skills. I am continuously going to add and change the website but feel free to check out my repo on GitHub!",
     link: "https://github.com/tommytwm/my-website"
 }
@@ -41,7 +41,7 @@ function Projects() {
     return(
         <div className="Projects">
             <h2 className="Projects-header">
-                Here are some projects I worked on ✨
+                Some projects I worked on ✨
             </h2>
             <h4 className="Projects-subheader">
                 (that may or may not be completed (oops) 🤷‍♂️)

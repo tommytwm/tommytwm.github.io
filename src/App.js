@@ -18,7 +18,6 @@ function App() {
         <Experience />
         <Projects />
         <Contacts/>
-        <Resumes/>
       </header>
     </div>
   );

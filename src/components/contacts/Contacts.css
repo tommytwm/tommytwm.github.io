@@ -1,6 +1,5 @@
 .Contacts {
     align-self: baseline;
-    padding-bottom: 120px;
 }
 
 .Contacts-header {
@@ -9,27 +8,43 @@
 }
 
 .Contacts-list {
-    font-size: 20px;
-    font-weight: lighter;
     list-style-type: none;
+}
+
+.Row-2 {
+    width: 50%;
+    display: flex;
+
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.4em;
+}
+
+.footer-image {
+    position: absolute;
+    width: 70%;
+    right: 6%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
 
 li {
     padding: 8px 0;
+    font-weight: 400;
 }
 
 ul > li:nth-child(1) {
-    margin-top: 10px;
     list-style: "📧   ";
     list-style-position: outside;
 }
 ul > li:nth-child(2) {
-    margin-top: 10px;
     list-style: "💼   ";
     list-style-position: outside;
 }
 ul > li:nth-child(3) {
-    margin-top: 10px;
     list-style: "🤓   ";
     list-style-position: outside;
 }
