@@ -34,7 +34,7 @@ project[3] = {
     date: "February 2019",
     event: "Bizhacks UBC",
     description: "Jessica is an AI Chatbot I helped developed using Google Dialogflow API, and Java, Android Studio to demo. The app was inspired to help improve the retail experience for customers navigating Best Buy’s inventory.",
-    link: ""
+    link: null
 };
 
 function Projects() {

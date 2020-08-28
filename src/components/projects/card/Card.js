@@ -18,13 +18,13 @@ function Card(props) {
             </ol>
             <div 
                 className={
-                    isHover ? "Card-btn-hover" : "Card-btn"
+                    props.link ? isHover ? "Card-btn-hover" : "Card-btn" : "no-card"
                 }
                 onMouseEnter={() => setHover(true)}
                 onMouseLeave={() => setHover(false)}
                 onClick={() => handleClick(props.link)}
             >
-                Github repo
+                { props.link && <>Github link</> }
             </div>
         </div>
     );
