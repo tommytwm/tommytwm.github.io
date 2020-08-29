@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tommytho/static/css/main.bd081b28.chunk.css",
+    "main.js": "/tommytho/static/js/main.530a8e73.chunk.js",
+    "main.js.map": "/tommytho/static/js/main.530a8e73.chunk.js.map",
+    "runtime-main.js": "/tommytho/static/js/runtime-main.260e509e.js",
+    "runtime-main.js.map": "/tommytho/static/js/runtime-main.260e509e.js.map",
+    "static/js/2.61015829.chunk.js": "/tommytho/static/js/2.61015829.chunk.js",
+    "static/js/2.61015829.chunk.js.map": "/tommytho/static/js/2.61015829.chunk.js.map",
+    "index.html": "/tommytho/index.html",
+    "precache-manifest.f3168ffa8e32c7d784af77969c520580.js": "/tommytho/precache-manifest.f3168ffa8e32c7d784af77969c520580.js",
+    "service-worker.js": "/tommytho/service-worker.js",
+    "static/css/main.bd081b28.chunk.css.map": "/tommytho/static/css/main.bd081b28.chunk.css.map",
+    "static/js/2.61015829.chunk.js.LICENSE.txt": "/tommytho/static/js/2.61015829.chunk.js.LICENSE.txt",
+    "static/media/CoopResume2020.pdf": "/tommytho/static/media/CoopResume2020.43ef5e76.pdf",
+    "static/media/code-windows.43ada542.svg": "/tommytho/static/media/code-windows.43ada542.svg",
+    "static/media/frameworks.7a754642.svg": "/tommytho/static/media/frameworks.7a754642.svg",
+    "static/media/pic.png": "/tommytho/static/media/pic.75df2224.png",
+    "static/media/terminal.63469ddd.svg": "/tommytho/static/media/terminal.63469ddd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.260e509e.js",
+    "static/js/2.61015829.chunk.js",
+    "static/css/main.bd081b28.chunk.css",
+    "static/js/main.530a8e73.chunk.js"
+  ]
+}
