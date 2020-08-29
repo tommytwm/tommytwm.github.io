@@ -1,7 +1,30 @@
+@media only screen and (max-width: 768px) {
+    /* Mobile screens */
+    .Bio {
+        
+    }
+
+    .Bio-header {
+
+    }
+
+    .Bio-text {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .Bio img {
+        width: 12em !important;
+    }
+}
+
 .Bio {
     text-align: left;
-    display: flex;
     margin-bottom: 5%
+}
+
+.Bio-body {
+    padding-right: 10%;
 }
 
 .Bio-header {
@@ -9,9 +32,9 @@
 }
 
 .Bio-text {
-    padding-right: 10%;
+    display: flex;
 } 
 
-img {
+.Bio img {
     width: 15em;
 }
