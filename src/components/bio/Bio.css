@@ -10,10 +10,11 @@
 
     .Bio-text {
         display: flex;
-        flex-direction: row-reverse;
+        flex-direction: column-reverse;
     }
 
     .Bio img {
+        margin: 0 20%;
         width: 12em !important;
     }
 }
