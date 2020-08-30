@@ -1,0 +1,63 @@
+.Contacts {
+    align-self: baseline;
+}
+
+.Contacts-list {
+    list-style-type: none;
+}
+
+.Row-2 {
+    width: 50%;
+    display: flex;
+
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.4em;
+}
+
+.footer-image {
+    position: absolute;
+    width: 70%;
+    right: 6%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    padding: 8px 0;
+    font-weight: 400;
+}
+
+ul > li:nth-child(1) {
+    list-style: "📧   ";
+    list-style-position: outside;
+}
+ul > li:nth-child(2) {
+    list-style: "💼   ";
+    list-style-position: outside;
+}
+ul > li:nth-child(3) {
+    list-style: "🤓   ";
+    list-style-position: outside;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .Row-2 {
+        width: 100%;
+        font-size: 14px;
+        display: block;
+    }
+
+    .footer-image {
+        position: relative;
+        margin-top: 10%;
+        width: 110%;
+        left: 2%;
+        right: 0;
+        bottom: -6px;
+    }
+}
