@@ -39,7 +39,7 @@ project[3] = {
 
 function Projects() {
     return(
-        <div className="Projects">
+        <div className="Projects" id="Projects">
             <h2 className="Projects-header">
                 Some projects I worked on ✨
             </h2>

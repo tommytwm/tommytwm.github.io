@@ -7,7 +7,7 @@ import Photo from './assets/pic.png';
 
 function Contacts() {
     return (
-        <div className="Contacts">
+        <div className="Contacts" id="Contacts">
             <div className="Row-1">
                 <h2 className="Contacts-header">
                     Interested? Call me 🤙😉📲

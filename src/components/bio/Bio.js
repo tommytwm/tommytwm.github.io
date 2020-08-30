@@ -6,7 +6,7 @@ import Photo from './assets/pic.png';
 
 function Bio() {
     return (
-        <div className="Bio">
+        <div className="Bio" id="Bio">
             <h2 className="Bio-header">
                 So this is me 🤗
             </h2>

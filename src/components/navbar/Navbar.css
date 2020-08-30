@@ -1,0 +1,36 @@
+.Navbar {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    align-items: center;
+    left: 4%;
+}
+
+.Navbar-button {
+    background-color: #FFFFFF;
+    border: 3px solid #000000;
+    color: #000000;
+    border-radius: 50px;
+    font-weight: bold;
+
+    margin: 2% 1%;
+    padding: .6em 1em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.Navbar-button:hover {
+    background-color: #000000;
+    border: 3px solid #000000;
+    color: #FFFFFF;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+
+    margin: 2% 1%;
+    padding: .6em 1em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}

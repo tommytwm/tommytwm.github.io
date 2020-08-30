@@ -8,7 +8,7 @@ import {ReactComponent as Codewindows} from './assets/code-windows.svg';
 
 function Skills() {
     return (
-        <div className="Skills">
+        <div className="Skills" id="Skills">
             <h2 className="Skills-header">
                 Here are some things I can do 🛠
             </h2>
