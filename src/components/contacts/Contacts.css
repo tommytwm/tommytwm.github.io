@@ -2,11 +2,6 @@
     align-self: baseline;
 }
 
-.Contacts-header {
-    font-size: 30px;
-    font-weight: bold;
-}
-
 .Contacts-list {
     list-style-type: none;
 }
@@ -47,4 +42,10 @@ ul > li:nth-child(2) {
 ul > li:nth-child(3) {
     list-style: "🤓   ";
     list-style-position: outside;
+}
+
+@media only screen and (max-width: 768px) {
+    .Row-2 {
+        font-size: 14px;
+    }
 }

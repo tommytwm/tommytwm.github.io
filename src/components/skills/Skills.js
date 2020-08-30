@@ -13,7 +13,9 @@ function Skills() {
                 Here are some things I can do 🛠
             </h2>
             <div className="Skills-row">
-                <Terminal width={"30em"}/>
+                <div className="Skills-img-1">
+                    <Terminal/>
+                </div>
                 <div className="Skills-text-1">
                     <h3>Write code! 🧑‍💻</h3>
                     <p>
@@ -25,7 +27,9 @@ function Skills() {
                 </div>
             </div>
             <div className="Skills-row">
-                <Frameworks width={"40em"}/>
+                <div className="Skills-img-2">
+                    <Frameworks/>
+                </div>
                 <div className="Skills-text-2">
                     <h3>Use coding frameworks! 💁‍♂️</h3>
                     <p>
@@ -36,7 +40,9 @@ function Skills() {
                 </div>
             </div>
             <div className="Skills-row">
-                <Codewindows width={"30em"}/>
+                <div className="Skills-img-3">
+                    <Codewindows/>
+                </div>
                 <div className="Skills-text-3">
                     <h3>IDE’s & VCS’s 🤖</h3>
                     <p>

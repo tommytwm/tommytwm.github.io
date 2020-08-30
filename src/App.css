@@ -43,3 +43,18 @@ p {
 b {
   font-weight: 600;
 }
+
+@media only screen and (max-width: 768px) {
+  h2 {
+    font-size: calc(10px + 2vmin);
+  }
+  h4 {
+    font-size: 14px;
+  }
+  ol {
+    font-size: 14px;
+  }
+  p {
+    font-size: 14px;
+  }
+}

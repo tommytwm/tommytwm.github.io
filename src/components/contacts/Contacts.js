@@ -9,9 +9,9 @@ function Contacts() {
     return (
         <div className="Contacts">
             <div className="Row-1">
-                <p className="Contacts-header">
+                <h2 className="Contacts-header">
                     Interested? Call me 🤙😉📲
-                </p>
+                </h2>
             </div>
             <div className="Row-2">
                 <div>
