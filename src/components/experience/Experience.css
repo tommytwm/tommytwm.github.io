@@ -2,6 +2,13 @@
     width: 100%;
 }
 
-.Experience .Row {
+.Row {
     display: flex;
+}
+
+@media only screen and (max-width: 768px) {
+    .Row {
+        display: flex;
+        flex-flow: wrap;
+    }
 }

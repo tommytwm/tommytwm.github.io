@@ -45,6 +45,7 @@ b {
 }
 
 @media only screen and (max-width: 768px) {
+
   h2 {
     font-size: calc(10px + 2vmin);
   }
