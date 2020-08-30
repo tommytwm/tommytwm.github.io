@@ -5,6 +5,7 @@
     align-items: center;
     left: 4%;
     background: linear-gradient(180deg, #FFFFFF 80.21%, rgba(255, 255, 255, 0) 100%);
+    font-size: 18px;
 }
 
 .Navbar-button {
@@ -45,6 +46,7 @@
         left: 0;
         bottom: 0;
         background: #FFFFFF;
+        font-size: 14px;
     }
 
     .Navbar-button {
