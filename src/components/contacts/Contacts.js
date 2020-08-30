@@ -14,7 +14,7 @@ function Contacts() {
                 </h2>
             </div>
             <div className="Row-2">
-                <div>
+                <div className="Contacts-text">
                         I’m currently looking for internships and work, and I’d be interested in collaborating in your next project!
                     <ul className="Contacts-list">
                         <li>

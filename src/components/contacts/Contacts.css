@@ -45,7 +45,19 @@ ul > li:nth-child(3) {
 }
 
 @media only screen and (max-width: 768px) {
+
     .Row-2 {
+        width: 100%;
         font-size: 14px;
+        display: block;
+    }
+
+    .footer-image {
+        position: relative;
+        margin-top: 10%;
+        width: 110%;
+        left: 2%;
+        right: 0;
+        bottom: -6px;
     }
 }
