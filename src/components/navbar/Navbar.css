@@ -5,7 +5,10 @@
     align-items: center;
     left: 4%;
     background: linear-gradient(180deg, #FFFFFF 80.21%, rgba(255, 255, 255, 0) 100%);
-    font-size: 18px;
+}
+
+.Navbar-container {
+    padding-bottom: 2%;
 }
 
 .Navbar-button {
@@ -14,9 +17,10 @@
     color: #000000;
     border-radius: 50px;
     font-weight: bold;
+    font-size: 14px;
 
     margin: 2% 1%;
-    padding: .6em 1em;
+    padding: .2em 1em;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -31,7 +35,7 @@
     cursor: pointer;
 
     margin: 2% 1%;
-    padding: .6em 1em;
+    padding: .2em 1em;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -46,7 +50,10 @@
         left: 0;
         bottom: 0;
         background: #FFFFFF;
-        font-size: 14px;
+    }
+
+    .Navbar-container {
+        padding-bottom: 0;
     }
 
     .Navbar-button {
@@ -56,6 +63,7 @@
         border-radius: 0;
         font-weight: bold;
     
+        margin: 0 0;
         padding: 1em 1em;
         text-align: center;
         text-decoration: none;
@@ -70,6 +78,7 @@
         font-weight: bold;
         cursor: pointer;
     
+        margin: 0 0;
         padding: 1em 1em;
         text-align: center;
         text-decoration: none;
