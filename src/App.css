@@ -45,6 +45,9 @@ b {
 }
 
 @media only screen and (max-width: 768px) {
+  .App {
+    overflow: hidden;
+  }
 
   h2 {
     font-size: calc(10px + 2vmin);

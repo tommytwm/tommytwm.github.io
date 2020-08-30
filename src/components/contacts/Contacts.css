@@ -45,6 +45,9 @@ ul > li:nth-child(3) {
 }
 
 @media only screen and (max-width: 768px) {
+    .Contacts {
+        margin-bottom: 12%;
+    }
 
     .Row-2 {
         width: 100%;
