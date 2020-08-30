@@ -5,8 +5,8 @@
 }
 
 .Title-subtitle {
-    font-size: 20px;
     font-weight: bold;
+    line-height: 1.5em;
 }
 
 .Title-header {
@@ -16,4 +16,12 @@
 .Title-subheader {
     font-size: 20px;
     font-weight: lighter;
+}
+
+@media only screen and (max-width: 768px) {
+    .Title {
+        align-self: baseline;
+        padding-top: 15%;
+        padding-bottom: 20%;
+    }
 }

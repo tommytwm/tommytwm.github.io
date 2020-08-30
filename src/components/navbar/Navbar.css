@@ -35,3 +35,42 @@
     text-decoration: none;
     display: inline-block;
 }
+
+@media only screen and (max-width: 768px) {
+    .Navbar {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        align-items: center;
+        left: 0;
+        bottom: 0;
+        background: #FFFFFF;
+    }
+
+    .Navbar-button {
+        background-color: #FFFFFF;
+        border: none;
+        color: #000000;
+        border-radius: 0;
+        font-weight: bold;
+    
+        padding: 1em 1em;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    
+    .Navbar-button:hover {
+        background-color: #000000;
+        border: none;
+        color: #FFFFFF;
+        border-radius: 0;
+        font-weight: bold;
+        cursor: pointer;
+    
+        padding: 1em 1em;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+}
