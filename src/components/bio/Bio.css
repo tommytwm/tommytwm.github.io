@@ -1,27 +1,15 @@
-@media only screen and (max-width: 768px) {
-    /* Mobile screens */
-    .Bio-text {
-        display: flex;
-        flex-direction: column-reverse;
-    }
-
-    .Bio img {
-        margin: 0 20%;
-        width: 12em !important;
-    }
-}
-
 .Bio {
     text-align: left;
     margin-bottom: 5%
 }
 
 .Bio-body {
-    padding-right: 10%;
+    margin-right: 10%;
+    padding-top: 5%;
 }
 
 .Bio-header {
-    margin-bottom: 8%;
+    margin-bottom: 5%;
 }
 
 .Bio-text {
@@ -29,5 +17,22 @@
 } 
 
 .Bio img {
-    width: 15em;
+    width: 18em;
+}
+
+@media only screen and (max-width: 768px) {
+    /* Mobile screens */
+    .Bio-text {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .Bio-img {
+        position: relative;
+        left: 22%;
+    }
+
+    .Bio img {
+        width: 15em;
+    }
 }
