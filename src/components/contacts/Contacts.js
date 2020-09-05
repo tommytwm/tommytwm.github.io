@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/accessible-emoji */
 /* eslint-disable react/jsx-no-target-blank */
 import React from 'react'
 import './Contacts.css'

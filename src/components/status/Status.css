@@ -1,0 +1,27 @@
+.Status {
+    margin-bottom: 10%;
+}
+
+.Status-list li {
+    font-weight: lighter;
+}
+
+.Status-list li:nth-child(1) {
+    list-style: "👀   ";
+    list-style-position: outside;
+}
+
+.Status-list li:nth-child(2) {
+    list-style: "💻   ";
+    list-style-position: outside;
+}
+
+.Status-list li:nth-child(3) {
+    list-style: "👨‍🏫   ";
+    list-style-position: outside;
+}
+
+.Status-list li:nth-child(4) {
+    list-style: "🏫   ";
+    list-style-position: outside;
+}
