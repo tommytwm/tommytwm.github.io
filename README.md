@@ -53,7 +53,9 @@ Whenever a PR is made to master and code is prepared to deploy, identify if the 
 
 ### How to deploy:
 
-
+1. Run `npm run build` to test to see if the code compiles
+2. Run `npm run deploy` to deploy the code to GitHub Pages
+3. Under your repo on GitHub go to `Settings` tab and down to `GitHub Pages`, ensure the custom domain still points to the correct domain.
 
 
 ## Learn More
