@@ -6,6 +6,7 @@ import Experience from './components/experience/Experience';
 import Navbar from './components/navbar/Navbar';
 import Projects from './components/projects/Projects';
 import Skills from './components/skills/Skills';
+import Status from './components/status/Status';
 import Title from './components/title/Title';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <header className="App-header">
         <Navbar/>
         <Title/>
+        <Status/>
         <Bio/>
         <Skills/>
         <Experience />

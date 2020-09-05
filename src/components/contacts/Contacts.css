@@ -31,15 +31,15 @@ li {
     font-weight: 400;
 }
 
-ul > li:nth-child(1) {
+.Contacts-list li:nth-child(1) {
     list-style: "📧   ";
     list-style-position: outside;
 }
-ul > li:nth-child(2) {
+.Contacts-list li:nth-child(2) {
     list-style: "💼   ";
     list-style-position: outside;
 }
-ul > li:nth-child(3) {
+.Contacts-list li:nth-child(3) {
     list-style: "🤓   ";
     list-style-position: outside;
 }
