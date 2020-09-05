@@ -39,6 +39,23 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Deployment Protocols
+
+### Versioning
+
+Whenever a PR is made to master and code is prepared to deploy, identify if the PR has **major, minor, or bug/patch** code changes. Update the version in `package.json` to reflect the code changes before deployment. Take note of the number `1` in the table below in the Version Change column to indicate which numbers to change.
+
+|                |Definition                                            |Version Change               |
+|----------------|------------------------------------------------------|-----------------------------|
+|Major           |Code that breaks current state                        |`1.x.x`                      |
+|Minor           |Code that adds feature & doesn't break current state  |`x.1.x`                      |
+|Bug/Patch       |Code that has minimal change or bug fixes             |`x.x.1`                      |
+
+### How to deploy:
+
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -68,3 +85,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
