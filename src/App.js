@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Banner from './components/banner/Banner';
 import Bio from './components/bio/Bio';
 import Contacts from './components/contacts/Contacts';
 import Experience from './components/experience/Experience';
@@ -14,6 +15,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Navbar/>
+        <Banner/>
         <Title/>
         <Status/>
         <Bio/>
