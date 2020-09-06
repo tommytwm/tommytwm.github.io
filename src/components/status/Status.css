@@ -2,6 +2,20 @@
     margin-bottom: 10%;
 }
 
+.Status-header {
+    /* Animation style */
+    -webkit-animation-name: color-transition;
+	animation-name: color-transition;
+	-webkit-animation-duration: 8s;
+	animation-duration: 8s;
+	-webkit-animation-direction: alternate;
+	animation-direction: alternate;
+	-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	animation-timing-function: linear;
+}
+
 .Status-list li {
     font-weight: lighter;
 }
@@ -24,4 +38,42 @@
 .Status-list li:nth-child(4) {
     list-style: "🏫   ";
     list-style-position: outside;
+}
+
+/* Animation frames */
+
+@-webkit-keyframes color-transition {
+    0% {
+		color: #000000;
+	}
+	25% {
+		color: #64CA57;
+	}
+	50% {
+		color: #FFA800;
+    }
+    75% {
+		color: #FF0000;
+	}
+	100% {
+		color: #065BFF;;
+	}
+}
+
+@keyframes color-transition {
+	0% {
+		color: #000000;
+	}
+	25% {
+		color: #64CA57;
+	}
+	50% {
+		color: #FFA800;
+    }
+    75% {
+		color: #FF0000;
+	}
+	100% {
+		color: #065BFF;;
+	}
 }
