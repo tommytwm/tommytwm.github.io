@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2f2b5ca.chunk.css",
-    "main.js": "/static/js/main.c2a0d630.chunk.js",
-    "main.js.map": "/static/js/main.c2a0d630.chunk.js.map",
+    "main.css": "/static/css/main.255236ec.chunk.css",
+    "main.js": "/static/js/main.93935a2b.chunk.js",
+    "main.js.map": "/static/js/main.93935a2b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b126251.js",
     "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
     "static/js/2.61015829.chunk.js": "/static/js/2.61015829.chunk.js",
     "static/js/2.61015829.chunk.js.map": "/static/js/2.61015829.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1104bba68fec59d848006fc3993425bf.js": "/precache-manifest.1104bba68fec59d848006fc3993425bf.js",
+    "precache-manifest.17605d510972ccf2756ba9f744890175.js": "/precache-manifest.17605d510972ccf2756ba9f744890175.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c2f2b5ca.chunk.css.map": "/static/css/main.c2f2b5ca.chunk.css.map",
+    "static/css/main.255236ec.chunk.css.map": "/static/css/main.255236ec.chunk.css.map",
     "static/js/2.61015829.chunk.js.LICENSE.txt": "/static/js/2.61015829.chunk.js.LICENSE.txt",
     "static/media/CoopResume2020.pdf": "/static/media/CoopResume2020.43ef5e76.pdf",
     "static/media/code-windows.1725bdb7.svg": "/static/media/code-windows.1725bdb7.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.9b126251.js",
     "static/js/2.61015829.chunk.js",
-    "static/css/main.c2f2b5ca.chunk.css",
-    "static/js/main.c2a0d630.chunk.js"
+    "static/css/main.255236ec.chunk.css",
+    "static/js/main.93935a2b.chunk.js"
   ]
 }
