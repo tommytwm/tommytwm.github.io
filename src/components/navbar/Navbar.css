@@ -7,10 +7,6 @@
     background: linear-gradient(180deg, #FFFFFF 80.21%, rgba(255, 255, 255, 0) 100%);
 }
 
-.Navbar-container {
-    padding-bottom: 2%;
-}
-
 .Navbar-button {
     background-color: #FFFFFF;
     border: 3px solid #000000;
