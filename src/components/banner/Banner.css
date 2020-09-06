@@ -1,5 +1,6 @@
 .Banner {
     margin-top: 8%;
+    z-index: 1;
 }
 
 .Banner a {
