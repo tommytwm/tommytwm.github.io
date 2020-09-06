@@ -6,7 +6,7 @@ function Banner() {
 
     return (
         <div className="Banner">
-            📢&nbsp; Donate to the &nbsp;
+            📢&nbsp; Support the &nbsp;
             <a 
                 href="https://blacklivesmatters.carrd.co/"
                 target="_blank"
@@ -14,7 +14,7 @@ function Banner() {
             >
                 Black Lives Matter
             </a> 
-            &nbsp; organization!
+            &nbsp; movement!
         </div>
     );
 };
