@@ -12,10 +12,10 @@ function Status() {
                 Last updated: August 5th, 2020
             </h4>
             <ul className="Status-list">
-                <li>Looking for software development internships/co-op for the winter term (January, 2020)</li>
-                <li>Working part-time at HappyHour as a Front-end Software Engineer Intern</li>
-                <li>Working full-time at UBC as a Undergraduate Teaching Assistant</li>
-                <li>Enrolled full-time at UBC for Winter Term 1, 2020</li>
+                <li>👀 &nbsp; Looking for software development internships/co-op for the winter term (January, 2020)</li>
+                <li>💻 &nbsp; Working part-time at HappyHour as a Front-end Software Engineer Intern</li>
+                <li>👨‍🏫 &nbsp; Working full-time at UBC as a Undergraduate Teaching Assistant</li>
+                <li>🏫 &nbsp; Enrolled full-time at UBC for Winter Term 1, 2020</li>
             </ul>
         </div>
     );

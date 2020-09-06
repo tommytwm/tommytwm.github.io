@@ -19,16 +19,19 @@ function Contacts() {
                         I’m currently looking for internships and work, and I’d be interested in collaborating in your next project!
                     <ul className="Contacts-list">
                         <li>
+                            📧 &nbsp;
                             <a href="mailto:tommythowm@gmail.com">
                                 tommythowm@gmail.com
                             </a>
                         </li>
                         <li>
+                            💼 &nbsp;
                             <a href="https://linkedin.com/in/tommythowm" target="_blank">
                                 linkedin.com/in/tommythowm
                             </a>
                         </li>
                         <li>
+                            🤓 &nbsp;
                             <a href="https://github.com/tommytwm" target="_blank">
                                 github.com/tommytwm
                             </a>

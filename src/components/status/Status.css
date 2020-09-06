@@ -17,27 +17,17 @@
 }
 
 .Status-list li {
-    font-weight: lighter;
+	font-weight: lighter;
+	list-style: none;
+	margin-left: -1%;
 }
 
-.Status-list li:nth-child(1) {
-    list-style: "👀   ";
-    list-style-position: outside;
-}
-
-.Status-list li:nth-child(2) {
-    list-style: "💻   ";
-    list-style-position: outside;
-}
-
-.Status-list li:nth-child(3) {
-    list-style: "👨‍🏫   ";
-    list-style-position: outside;
-}
-
-.Status-list li:nth-child(4) {
-    list-style: "🏫   ";
-    list-style-position: outside;
+@media only screen and (max-width: 768px) {
+	.Status-list li {
+		font-weight: lighter;
+		list-style: none;
+		margin-left: -7%;
+	}
 }
 
 /* Animation frames */

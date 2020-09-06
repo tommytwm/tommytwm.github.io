@@ -31,19 +31,6 @@ li {
     font-weight: 400;
 }
 
-.Contacts-list li:nth-child(1) {
-    list-style: "📧   ";
-    list-style-position: outside;
-}
-.Contacts-list li:nth-child(2) {
-    list-style: "💼   ";
-    list-style-position: outside;
-}
-.Contacts-list li:nth-child(3) {
-    list-style: "🤓   ";
-    list-style-position: outside;
-}
-
 @media only screen and (max-width: 768px) {
     .Contacts {
         margin-bottom: 12%;
