@@ -4,6 +4,13 @@
     padding-bottom: 240px;
 }
 
+.Title-smart {
+    position: absolute;
+    width: 100%;
+    top: -4em;
+    left: 0;
+}
+
 .Title-subtitle {
     font-weight: bold;
     line-height: 1.5em;
@@ -11,10 +18,11 @@
 
 .Title-header {
     font-size: 60px;
+    margin-bottom: 8%;
+    color: #FFFFFF;
 }
 
 .Title-subheader {
-    font-size: 20px;
     font-weight: lighter;
 }
 
@@ -23,5 +31,15 @@
         align-self: baseline;
         padding-top: 15%;
         padding-bottom: 20%;
+    }
+
+    .Title-header {
+        color: #000000;
+        font-size: 4em;
+        display: block;
+    }
+
+    .Title-smart {
+        display: none;
     }
 }
