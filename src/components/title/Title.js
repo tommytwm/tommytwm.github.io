@@ -2,6 +2,8 @@
 import React from 'react'
 import './Title.css'
 
+import {ReactComponent as SmartTitle} from './assets/smart-grid-title.svg';
+
 function Title() {
     return (
         <div className="Title">
@@ -11,6 +13,7 @@ function Title() {
             <h1 className="Title-header">
                 Tommy Tho
             </h1>
+            <SmartTitle className="Title-smart"/>
             <a className="Title-subheader">
                 I'm a computer science undergrad at UBC. I do software development and some graphic design on the side.
             </a>
