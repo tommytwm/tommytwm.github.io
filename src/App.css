@@ -1,15 +1,11 @@
-.App-header {
+.App {
   background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   color: black;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
@@ -22,8 +18,5 @@
 }
 
 h1 {
-  font-size: 3em;
-}
-h2 {
   font-size: 2em;
 }

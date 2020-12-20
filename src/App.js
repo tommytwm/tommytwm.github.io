@@ -1,13 +1,13 @@
-import React from 'react';
-import './App.css';
-
+import React from "react";
+import "./App.css";
+import Navbar from "./components/navbar/Navbar";
+import Title from "./components/title/Title";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Tommy Tho</h1>
-      </header>
+      <Navbar/>
+      <Title/>
     </div>
   );
 }

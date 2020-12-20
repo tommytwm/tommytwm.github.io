@@ -1,0 +1,54 @@
+.Navbar-container {
+  position: absolute;
+  z-index: 1;
+  width: 80%;
+  height: max-content;
+  right: 10%;
+  left: 10%;
+  min-width: 600px;
+
+  text-align: center;
+  background: linear-gradient(90deg, #d459ff -30.19%, #ffb800 128.9%);
+}
+
+.Navbar-button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1em;
+
+    margin: 2% 1%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 600px) {
+    /* TODO: Make mobile screen */
+
+    .Navbar-container {
+        position: absolute;
+        z-index: 1;
+        width: 80%;
+        height: 6%;
+        right: 10%;
+        left: 10%;
+      
+        text-align: center;
+        background: linear-gradient(90deg, #d459ff -30.19%, #ffb800 128.9%);
+      }
+      
+      .Navbar-button {
+          background-color: transparent;
+          border: none;
+          color: white;
+          font-weight: bold;
+          font-size: 1em;
+      
+          margin: 2% 1%;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+      }
+  }
