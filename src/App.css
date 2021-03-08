@@ -1,20 +1,11 @@
 .App {
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-.App-header {
   background-color: #ffffff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 18px;
   color: black;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
@@ -26,43 +17,6 @@
   }
 }
 
-h4 {
-  font-size: 18px;
-}
-
-ol {
-  font-size: 18px;
-}
-
-p {
-  font-size: 18px;
-  font-weight: 300;
-  line-height: 1.5em;
-}
-
-b {
-  font-weight: 600;
-}
-
-@media only screen and (max-width: 768px) {
-  .App {
-    overflow: hidden;
-  }
-
-  .App-header {
-    font-size: 14px;
-  }
-
-  h2 {
-    font-size: calc(10px + 2vmin);
-  }
-  h4 {
-    font-size: 14px;
-  }
-  ol {
-    font-size: 14px;
-  }
-  p {
-    font-size: 14px;
-  }
+h1 {
+  font-size: 2em;
 }

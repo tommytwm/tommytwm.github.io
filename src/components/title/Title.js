@@ -1,24 +1,16 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-import React from 'react'
-import './Title.css'
+import React from "react";
+import "./Title.css";
+import { ReactComponent as SmartGrids } from "../../assets/smart_grids.svg";
 
-import {ReactComponent as SmartTitle} from './assets/smart-grid-title.svg';
-
-function Title() {
-    return (
-        <div className="Title">
-            <a className="Title-subtitle">
-                Hello! I'm
-            </a>
-            <h1 className="Title-header">
-                Tommy Tho
-            </h1>
-            <SmartTitle className="Title-smart"/>
-            <a className="Title-subheader">
-                I'm a computer science undergrad at UBC. I do software development and some graphic design on the side.
-            </a>
-        </div>
-    )
+export default function Title() {
+  return (
+    <div className="Title-container">
+      <h1 className="Title-header">Tommy Tho</h1>
+      <SmartGrids className="Title-grids" />
+      <p className="Title-subheader">
+        BSc. Computer Science | Software Developer | Graphic Designer |
+        Coffee Addict
+      </p>
+    </div>
+  );
 }
-
-export default Title;

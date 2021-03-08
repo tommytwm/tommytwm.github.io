@@ -1,45 +1,26 @@
-.Title {
-    align-self: baseline;
-    padding-top: 120px;
-    padding-bottom: 240px;
-}
-
-.Title-smart {
-    position: absolute;
-    width: 100%;
-    top: -4em;
-    left: 0;
-}
-
-.Title-subtitle {
-    font-weight: bold;
-    line-height: 1.5em;
+.Title-container {
 }
 
 .Title-header {
-    font-size: 60px;
-    margin-bottom: 8%;
-    color: #FFFFFF;
+    display: none;
 }
 
 .Title-subheader {
-    font-weight: lighter;
+    text-align: center;
 }
 
-@media only screen and (max-width: 768px) {
-    .Title {
-        align-self: baseline;
-        padding-top: 15%;
-        padding-bottom: 20%;
-    }
+.Title-grids {
+  position: relative;
+  max-width: 100%;
+  top: -8%;
+}
 
-    .Title-header {
-        color: #000000;
-        font-size: 4em;
-        display: block;
-    }
-
-    .Title-smart {
-        display: none;
-    }
+@media only screen and (max-width: 600px) {
+  .Title-header {
+    display: flex;
+    align-self: center;
+  }
+  .Title-grids {
+    display: none;
+  }
 }
