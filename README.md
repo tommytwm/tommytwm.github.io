@@ -4,7 +4,7 @@ You can view the current website design [here](https://www.figma.com/file/5SoMEk
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can sometimes run:
 
 ### `npm start`
 
